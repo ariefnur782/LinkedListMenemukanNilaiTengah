@@ -1,0 +1,2 @@
+# LinkedListMenemukanNilaiTengah
+uts
